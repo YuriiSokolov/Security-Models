@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище lab10ModelContainer" CdmEntityContainer="lab10Entities">
+    <EntitySetMapping Name="Confidential">
+      <EntityTypeMapping TypeName="lab10Model.Confidential">
+        <MappingFragment StoreEntitySet="Confidential">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="info" ColumnName="info" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Confidential_Biba">
+      <EntityTypeMapping TypeName="lab10Model.Confidential_Biba">
+        <MappingFragment StoreEntitySet="Confidential_Biba">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="info" ColumnName="info" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Secret">
+      <EntityTypeMapping TypeName="lab10Model.Secret">
+        <MappingFragment StoreEntitySet="Secret">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="info" ColumnName="info" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Secret_Biba">
+      <EntityTypeMapping TypeName="lab10Model.Secret_Biba">
+        <MappingFragment StoreEntitySet="Secret_Biba">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="info" ColumnName="info" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TopSecret">
+      <EntityTypeMapping TypeName="lab10Model.TopSecret">
+        <MappingFragment StoreEntitySet="TopSecret">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="info" ColumnName="info" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TopSecret_Biba">
+      <EntityTypeMapping TypeName="lab10Model.TopSecret_Biba">
+        <MappingFragment StoreEntitySet="TopSecret_Biba">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="info" ColumnName="info" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Unclassified">
+      <EntityTypeMapping TypeName="lab10Model.Unclassified">
+        <MappingFragment StoreEntitySet="Unclassified">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="info" ColumnName="info" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Unclassified_Biba">
+      <EntityTypeMapping TypeName="lab10Model.Unclassified_Biba">
+        <MappingFragment StoreEntitySet="Unclassified_Biba">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="info" ColumnName="info" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

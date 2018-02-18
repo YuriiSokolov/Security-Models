@@ -1,0 +1,15 @@
+E:\lab10\lab10\lab10\bin\Debug\lab10.exe.config
+E:\lab10\lab10\lab10\bin\Debug\lab10.exe
+E:\lab10\lab10\lab10\bin\Debug\lab10.pdb
+E:\lab10\lab10\lab10\obj\Debug\lab10.csprojResolveAssemblyReference.cache
+E:\lab10\lab10\lab10\obj\Debug\lab10.Form1.resources
+E:\lab10\lab10\lab10\obj\Debug\lab10.Properties.Resources.resources
+E:\lab10\lab10\lab10\obj\Debug\lab10.csproj.GenerateResource.Cache
+E:\lab10\lab10\lab10\obj\Debug\lab10.exe
+E:\lab10\lab10\lab10\obj\Debug\lab10.pdb
+E:\lab10\lab10\lab10\obj\Debug\lab10.Menu.resources
+E:\lab10\lab10\lab10\bin\Debug\EntityFramework.dll
+E:\lab10\lab10\lab10\bin\Debug\EntityFramework.SqlServer.dll
+E:\lab10\lab10\lab10\bin\Debug\EntityFramework.xml
+E:\lab10\lab10\lab10\bin\Debug\EntityFramework.SqlServer.xml
+E:\lab10\lab10\lab10\obj\Debug\lab10.Grate.resources
